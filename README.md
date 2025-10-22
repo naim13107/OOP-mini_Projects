@@ -1,9 +1,9 @@
 # OOP Mini Projects Collection
 
-A collection of Python Object-Oriented Programming projects from my course.
+A collection of Python Object-Oriented Programming projects .
 
 ## Projects
-- [Student Management System](./student-management-system/) - Mid Term Assignment
-- [Restaurant Management System](./restaurant-management/) - Coming Soon
-- [School Management Project](./school-management/) - Coming Soon
-- [Ride Sharing App](./ride-sharing-app/) - Coming Soon
+- [Student Management System](./student-management-system/) 
+- [Restaurant Management System](./restaurant-management/) 
+- [School Management Project](./school-management/) 
+- [Ride Sharing App](./ride-sharing-app/) 
