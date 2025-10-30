@@ -1,6 +1,4 @@
-# Python-Mid-Term-Assignment---Student-Management-System
-
-## Student Management System - Python Mid Term Assignment
+# Student-Management-System
 
 ## Description
 A menu-driven student management system implemented in Python with object-oriented programming principles.
